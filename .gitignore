@@ -1,0 +1,13 @@
+# Ambiente virtual
+.venv/
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Arquivos do VS Code
+.vscode/
+
+# Outros arquivos que não devem ser versionados
+__pycache__/
+*.pyc
+.DS_Store
